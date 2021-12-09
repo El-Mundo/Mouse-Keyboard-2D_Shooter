@@ -1,0 +1,15 @@
+SFX:
+Super Mario World (SNES) - Nintendo
+Yoshi's Island (SNES) - Nintendo
+Kirby Super Star (SNES) -Nintendo
+
+Music:
+Cotton (AC) - Success
+
+Graphics:
+https://www.spriters-resource.com/snes/kirbysuperstarkirbysfunpak/sheet/46072/
+https://www.spriters-resource.com/snes/smassmb3/sheet/65179/
+https://www.spriters-resource.com/snes/smarioworld/sheet/143252/
+https://www.spriters-resource.com/snes/smarioworld/sheet/53664/
+https://www.spriters-resource.com/snes/magicalqueststarringmickeymouse/sheet/1212/
+https://www.spriters-resource.com/snes/smariorpg/sheet/12873/
